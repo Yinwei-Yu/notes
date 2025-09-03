@@ -1,0 +1,1 @@
+This is a new repo which use a different structure to manage my notes.
