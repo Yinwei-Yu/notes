@@ -4,5 +4,5 @@
 
 ## games101
 
-[[5-full-notes/games101-transformation|games101-transformation]]
+[[5-full-notes/games101-1-transformation|games101-1-transformation]]
 
