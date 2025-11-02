@@ -1,10 +1,6 @@
 Time:{{date}}
 
-Status: 
-
-- [ ] **working** 👨‍💻
-- [ ] *done*    💻
-
 Tags:
 
-## Reference
+# AI summarize
+# Reference
