@@ -28,4 +28,6 @@ Tags:[distributed](3-tags/distributed.md)
 *   **主要限制？** 依赖**特殊硬件**（RDMA、UPS-RAM）、**不适用于广域网**、**数据必须全在 RAM**、**冲突率高时性能急剧下降**。
 
 # AI summarize
+
+FaRM是微软设计的一个基于RDMA和NVRAM的高性能分布式事务系统，旨在通过硬件加速和乐观并发控制实现严格可串行化和微秒级事务延迟。关于FaRM，最值得记住的是它**革命性地结合RDMA和NVRAM硬件技术，彻底消除网络和存储I/O瓶颈，在分布式环境中实现接近本地内存的极致性能**。
 # Reference
